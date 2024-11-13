@@ -1,8 +1,8 @@
-# Wanderlust
+# Heaven Quest
 
 Visit the live website: <a href="https://wanderlust-ocrz.onrender.com/listings" target="_blank">Wanderlust</a>
 
-**Wanderlust** is an Airbnb clone that allows users to explore and book unique stays. This application features authentication, authorization, and the ability to leave reviews on listings. Users can also add new listings when logged in, filter by category, and more.
+**Heaven Quest** is an Airbnb clone that allows users to explore and book unique stays. This application features authentication, authorization, and the ability to leave reviews on listings. Users can also add new listings when logged in, filter by category, and more.
 
 ## Features
 
