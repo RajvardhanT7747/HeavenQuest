@@ -24,7 +24,7 @@ Visit the live website: <a href="https://wanderlust-ocrz.onrender.com/listings" 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Parth5409/wanderlust.git
+   git clone https://github.com/RajvardhanT7747/HeavenQuest.git
    ```
 2. Install dependencies:
    ```bash
